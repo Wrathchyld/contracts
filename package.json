@@ -85,7 +85,7 @@
     "glob": "^7.1.6",
     "merkle-patricia-tree": "2.3.2",
     "nunjucks": "^3.2.0",
-    "openzeppelin-solidity": "2.2.0",
+    "openzeppelin-solidity": "2.5.1",
     "solidity-rlp": "^2.0.0",
     "truffle-plugin-verify": "^0.3.8"
   }
