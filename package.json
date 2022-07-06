@@ -87,6 +87,6 @@
     "nunjucks": "^3.2.3",
     "openzeppelin-solidity": "2.5.1",
     "solidity-rlp": "^2.0.0",
-    "truffle-plugin-verify": "^0.5.5"
+    "truffle-plugin-verify": "^0.5.26"
   }
 }
